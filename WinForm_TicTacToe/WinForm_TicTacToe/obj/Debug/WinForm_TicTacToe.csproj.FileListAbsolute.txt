@@ -1,0 +1,10 @@
+C:\Users\Ekaterina\Desktop\WinForm_TicTacToe\WinForm_TicTacToe\bin\Debug\WinForm_TicTacToe.exe.config
+C:\Users\Ekaterina\Desktop\WinForm_TicTacToe\WinForm_TicTacToe\bin\Debug\WinForm_TicTacToe.exe
+C:\Users\Ekaterina\Desktop\WinForm_TicTacToe\WinForm_TicTacToe\bin\Debug\WinForm_TicTacToe.pdb
+C:\Users\Ekaterina\Desktop\WinForm_TicTacToe\WinForm_TicTacToe\obj\Debug\WinForm_TicTacToe.csprojAssemblyReference.cache
+C:\Users\Ekaterina\Desktop\WinForm_TicTacToe\WinForm_TicTacToe\obj\Debug\WinForm_TicTacToe.Form1.resources
+C:\Users\Ekaterina\Desktop\WinForm_TicTacToe\WinForm_TicTacToe\obj\Debug\WinForm_TicTacToe.Properties.Resources.resources
+C:\Users\Ekaterina\Desktop\WinForm_TicTacToe\WinForm_TicTacToe\obj\Debug\WinForm_TicTacToe.csproj.GenerateResource.cache
+C:\Users\Ekaterina\Desktop\WinForm_TicTacToe\WinForm_TicTacToe\obj\Debug\WinForm_TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Ekaterina\Desktop\WinForm_TicTacToe\WinForm_TicTacToe\obj\Debug\WinForm_TicTacToe.exe
+C:\Users\Ekaterina\Desktop\WinForm_TicTacToe\WinForm_TicTacToe\obj\Debug\WinForm_TicTacToe.pdb
